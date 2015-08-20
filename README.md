@@ -11,3 +11,7 @@
 生成随机数
 #### date-format-lite
 日期格式化
+#### js-cookie 
+cookie 操作
+#### localstoragejs
+扩展的本地存储
