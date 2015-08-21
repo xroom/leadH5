@@ -15,3 +15,6 @@
 cookie 操作
 #### localstoragejs
 扩展的本地存储
+#### store.js
+https://github.com/marcuswestin/store.js
+可以支持ie6以上不支持localstorage的
