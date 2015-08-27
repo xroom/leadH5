@@ -11,6 +11,7 @@
 生成随机数
 #### date-format-lite
 日期格式化
+http://cnpmjs.org/package/date-format-lite
 #### js-cookie 
 cookie 操作
 #### localstoragejs
